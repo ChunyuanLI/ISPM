@@ -13,13 +13,13 @@ This is the package to generate results in paper [*]. It can
 
 Data: The first 4 shapes in shrec2011 nonrigid dataset [9] are used in this package.
 
-1. Visualize the partition of 2nd eigenfunction 
+	1. Visualize the partition of 2nd eigenfunction 
 
 Step 1. Please open 'demo_visualize_isocontours.m';
 Step 2. To set the number of isocontours, change 'Nlines'';
 Step 3. Run the demo, it will visualize both the values and isocontours of 2nd eigenfunction.
 
-2. Intrinsic Spatial Pyramid Matching (ISPM)
+	2. Intrinsic Spatial Pyramid Matching (ISPM)
 
 Step 1. Please open 'demo_ISPM.m';
 Step 2. Set the parameters of in 'setting_up.m', including the pyramid paritions 'pyramid'.
@@ -37,12 +37,12 @@ Note that any of the following local descriptors can be incorporated as the inpu
 If you use the package, please cite the paper [*]. Thanks.
 
 # References
-[1] Rustamov, R.M.: Laplace-Beltrami eigenfunctions for deformation invariant shape representation. In: Proceedings of symposium on geometry processing, pp. 225–233 (2007)
-[2] Sun, J., Ovsjanikov, M., Guibas, L.J.: A concise and provably informative multi-scale signature based on heat diffusion. Comput. Graph. Forum 28(5), 1383–1392 (2009)
-[3] K. Gebal, J. A. Bærentzen, H. Aanæs, and R. Larsen. Shape analysis using the auto diffusion function. In Computer Graphics Forum, volume 28, pp 1405–1413 (2009).
-[4] Aubry, M., Schlickewei, U., Cremers, D.: The wave kernel signature: a quantum mechanical approach to shape analysis. In: Proceedings of computational methods for the innovative design of electrical devices, pp. 1626–1633 (2011)
-[5] Kokkinos, I., Bronstein, M.M., Yuille, A.: Dense scale-invariant descriptors for images and surfaces. Research Report, INRIA RR-7914 (2012)
-[6] Fang, Y., Sun, M., Kim, M., Ramani, K.: Heat-mapping: a robust approach toward perceptually consistent mesh segmentation. In: Proc. CVPR, pp. 2145–2152 (2011)
-[7] Li, Chunyuan, and A. Ben Hamza. "A multiresolution descriptor for deformable 3D shape retrieval." The Visual Computer 29.6-8 (2013): 513-524.
-[8] Li, Chunyuan, and A. Ben Hamza. "Spatially aggregating spectral descriptors for nonrigid 3D shape retrieval: a comparative survey." Multimedia Systems: 1-29.
-[9] Lian, Z., Godil, A., et al.: SHREC'11 track: Shape retrieval on non-rigid 3D watertight meshes. In Proc. of Eurographics on 3DOR, 2011.
+	[1] Rustamov, R.M.: Laplace-Beltrami eigenfunctions for deformation invariant shape representation. In: Proceedings of symposium on geometry processing, pp. 225–233 (2007)
+	[2] Sun, J., Ovsjanikov, M., Guibas, L.J.: A concise and provably informative multi-scale signature based on heat diffusion. Comput. Graph. Forum 28(5), 1383–1392 (2009)
+	[3] K. Gebal, J. A. Bærentzen, H. Aanæs, and R. Larsen. Shape analysis using the auto diffusion function. In Computer Graphics Forum, volume 28, pp 1405–1413 (2009).
+	[4] Aubry, M., Schlickewei, U., Cremers, D.: The wave kernel signature: a quantum mechanical approach to shape analysis. In: Proceedings of computational methods for the innovative design of electrical devices, pp. 1626–1633 (2011)
+	[5] Kokkinos, I., Bronstein, M.M., Yuille, A.: Dense scale-invariant descriptors for images and surfaces. Research Report, INRIA RR-7914 (2012)
+	[6] Fang, Y., Sun, M., Kim, M., Ramani, K.: Heat-mapping: a robust approach toward perceptually consistent mesh segmentation. In: Proc. CVPR, pp. 2145–2152 (2011)
+	[7] Li, Chunyuan, and A. Ben Hamza. "A multiresolution descriptor for deformable 3D shape retrieval." The Visual Computer 29.6-8 (2013): 513-524.
+	[8] Li, Chunyuan, and A. Ben Hamza. "Spatially aggregating spectral descriptors for nonrigid 3D shape retrieval: a comparative survey." Multimedia Systems: 1-29.
+	[9] Lian, Z., Godil, A., et al.: SHREC'11 track: Shape retrieval on non-rigid 3D watertight meshes. In Proc. of Eurographics on 3DOR, 2011.
