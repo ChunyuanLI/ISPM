@@ -8,6 +8,7 @@ This is the package to demonstrate ISPM. It can
 ## Citation
 If you use this code for your research, please cite our paper: [Intrinsic Spatial Pyramid Matching](https://link.springer.com/article/10.1007/s13735-013-0041-9):
 
+```
 @article{li2013intrinsic,
   title={Intrinsic spatial pyramid matching for deformable 3d shape retrieval},
   author={Li, Chunyuan and Hamza, A Ben},
@@ -18,6 +19,7 @@ If you use this code for your research, please cite our paper: [Intrinsic Spatia
   year={2013},
   publisher={Springer}
 }
+```
 
 # Instructions:
 
