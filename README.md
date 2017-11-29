@@ -5,6 +5,13 @@ This is the package to demonstrate ISPM. It can
    1. Visualize the functions and partitions on 3D meshed surfaces;
    2. Perform the Intrinsic Spatial Pyramid Matching of shapes.
 
+Why ISPM?| 2nd Eigenfunction performs Intrinsic Cuts|Invariant to Shape  Deformation
+:-------------------------:|:-------------------------:|:-------------------------:
+![](/figs/motivation.png)  |  ![](/figs/isocontours.png)  |  ![](/figs/ISPM_examples.png)
+
+Please see more details in my [Slides](/slides_spectral.pdf) and [Master Thesis](http://spectrum.library.concordia.ca/976916/4/Li_MSc_F2013.pdf), or [Wikipedia](https://en.wikipedia.org/wiki/Spectral_shape_analysis)
+
+
 ## Citation
 If you use this code for your research, please cite our paper: [Intrinsic Spatial Pyramid Matching](https://link.springer.com/article/10.1007/s13735-013-0041-9)
 
