@@ -6,7 +6,7 @@ This is the package to demonstrate ISPM. It can
    2. Perform the Intrinsic Spatial Pyramid Matching of shapes.
 
 ## Citation
-If you use this code for your research, please cite our paper: [Intrinsic Spatial Pyramid Matching](https://link.springer.com/article/10.1007/s13735-013-0041-9):
+If you use this code for your research, please cite our paper: [Intrinsic Spatial Pyramid Matching](https://link.springer.com/article/10.1007/s13735-013-0041-9)
 
 ```
 @article{li2013intrinsic,
