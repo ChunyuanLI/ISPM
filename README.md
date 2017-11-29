@@ -44,7 +44,7 @@ Step 1. Please open 'demo_ISPM.m';
 Step 2. Set the parameters of in 'setting_up.m', including the pyramid paritions 'pyramid'.
 Step 3. Run 'demo_ISPM.m', it will perform ISPM and display the distances with different combinations.
 
-Note that any of the following local descriptors can be incorporated as the input of ISPM, we use SGWS [7] in this demo. We surveyed the performance of these descriptors in [8], and found GPS [1] is not compatible with ISPM due to its sgin flip.
+Note that any of the following local descriptors can be incorporated as the input of ISPM, we use SGWS [7] in this demo. We surveyed the performance of these descriptors in [8], and found GPS [1] is not compatible with ISPM due to the sgin flip.
 
 	Global Point Signature (GPS) [1], 
 	Heat Kernel Signature (HKS) [2] [3], 
@@ -52,8 +52,6 @@ Note that any of the following local descriptors can be incorporated as the inpu
 	Scale Invariant Heat Kernel Signature (SIHKS) [5], 
 	Heat mean signature (HMS) [6], 
 	Spectral Graph Wavelet Signature (SGWS) [7].
-
-If you use the package, please cite the paper [*]. Thanks.
 
 # References
 	[1] Rustamov, R.M.: Laplace-Beltrami eigenfunctions for deformation invariant shape representation. In: Proceedings of symposium on geometry processing, pp. 225–233 (2007)
