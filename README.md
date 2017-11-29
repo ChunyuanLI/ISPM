@@ -1,11 +1,9 @@
-
-Chunyuan Li <chunyuan.li@hotmail.com>
-
 ## Intrinsic Spatial Pyramid Matching
 
 This is the package to demonstrate ISPM. It can 
-(1) visualize the functions and partitions on 3D meshed surfaces;
-(2) perform the Intrinsic Spatial Pyramid Matching of shapes.
+
+	(1) visualize the functions and partitions on 3D meshed surfaces;
+	(2) perform the Intrinsic Spatial Pyramid Matching of shapes.
 
 ## Citation
 If you use this code for your research, please cite our paper: [Intrinsic Spatial Pyramid Matching](https://link.springer.com/article/10.1007/s13735-013-0041-9):
